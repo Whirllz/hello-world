@@ -1,2 +1,6 @@
 # hello-world
-Hello Github
+
+Hi Everyone!
+
+Hey! I am strong!
+I like programming!
